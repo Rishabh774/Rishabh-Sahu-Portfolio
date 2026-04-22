@@ -1,16 +1,40 @@
-# React + Vite
+# Rishabh Sahu – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **[Live Website](https://your-vercel-link.vercel.app)**
 
-Currently, two official plugins are available:
+## 📖 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is my professional portfolio website, designed to showcase my journey as a **MERN Stack Developer**. The platform highlights my technical expertise, full-stack projects, and academic background in a clean, interactive environment.
 
-## React Compiler
+The focus is on providing a seamless **UI/UX experience** with high performance, ensuring that recruiters and collaborators can easily navigate through my work and skills.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* **Responsive Design:** Fully optimized for all screen sizes, from mobile to desktop.
+* **Dynamic Components:** Modular React architecture for clean and maintainable code.
+* **Smooth Motion:** Interactive transitions and scroll animations powered by Framer Motion.
+* **Performance Optimized:** Lightning-fast load times using the Vite build tool.
+* **Direct Links:** Integrated buttons for GitHub repositories and live project demos.
+
+## 📂 Key Projects Featured
+
+* **Empower Her:** A full-stack platform connecting users to government schemes.
+* **RoomAdda:** A dynamic room discovery platform with responsive grid layouts.
+* **Portfolio:** The very site you are viewing, built with modern frontend best practices.
+
+## 📌 License
+
+This project is open-source and available for learning and inspiration. Feel free to fork and customize it. 
+
+**Author:** Rishabh Sahu  
